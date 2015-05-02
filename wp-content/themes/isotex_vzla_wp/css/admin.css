@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-posts,
+.wpb_posts.wpb_content_element > .wpb_element_wrapper,
+.wpb_posts_carousel.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/posts.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-portfolio,
+.wpb_portfolio.wpb_content_element > .wpb_element_wrapper,
+.wpb_portfolio_carousel.wpb_content_element > .wpb_element_wrapper  {
+    background-image: url(../images/admin/portfolio.png);
+}
+
+.wpb_testimonial_item.wpb_content_element > .wpb_element_wrapper,
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-testimonial,
+.wpb_testimonial.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/testimonial.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-title,
+.wpb_big_title.wpb_content_element > .wpb_element_wrapper{
+    background-image: url(../images/admin/title.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-space,
+.wpb_space.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/space.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-team,
+.wpb_team_member.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/team.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-counter,
+.wpb_counter.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/counter.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-lists,
+.wpb_list_icon.wpb_content_element > .wpb_element_wrapper  {
+    background-image: url(../images/admin/lists.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-service,
+.wpb_service_one.wpb_content_element > .wpb_element_wrapper ,
+.wpb_service_two.wpb_content_element > .wpb_element_wrapper,
+.wpb_icon_box.wpb_content_element > .wpb_element_wrapper  {
+    background-image: url(../images/admin/service.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-table,
+.wpb_pricing_table.wpb_content_element > .wpb_element_wrapper{
+    background-image: url(../images/admin/table.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-share,
+.wpb_share.wpb_content_element > .wpb_element_wrapper,
+.wpb_icon_social.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../images/admin/share.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-content-image,
+.wpb_images_content.wpb_content_element > .wpb_element_wrapper{
+    background-image: url(../images/admin/images.png);
+}
+.wpb-content-layouts .wpb-layout-element-button .icon-wpb-icon-font,
+.wpb_icon_font.wpb_content_element > .wpb_element_wrapper{
+    background-image: url(../images/admin/flag.png);
+}
+
+
+.icon-drop i{
+	font-size: 27px;
+	padding: 7px;
+	display:inline-block;
+}
+.icon-drop {
+	border: 1px solid #C7C7C7;
+	width: 96%;
+	height: 120px;
+	overflow: scroll;
+	overflow-x: hidden;
+	margin: 10px 0px;
+}
+.icon-drop input#trace {
+	display:none;
+}
+.icon-drop li:hover {
+	background: #1E8CBE;
+	color: #FFF;
+}
+.icon-drop li.selected {
+	color: #FFF;
+	background:#313131;
+}
+.icon-preview {
+	display: inline-block;
+	width: 60px;
+	height: 50px;
+	text-align: center;
+}
+.icon-preview > i {
+	font-size:50px;
+	vertical-align: middle;
+}
+.wpb_element_label {
+	margin-right: 15px;
+	line-height: 30px;
+}
+.search {
+	padding: 5px;
+	margin-left: 50px;
+	width: 150px;
+	border-color: #C7C7C7 !important;
+}
+.icon-drop > .icon-list {
+	margin-top: 0px;
+}
+.icon-drop > .icon-list li {
+	display: inline-block;
+	padding: 0px 5px;
+	cursor: pointer;
+	border: 1px solid #DDD;
+	margin-bottom: 0px;
+	width: 40px;
+	text-align: center;
+}
+.icon-drop > .icon-list label {
+	display: none;
+}
+.icon-drop li.selected:hover {
+	color: #FFF;
+	background:#313131;
+}
+.wpb_el_type_icon .search, .wpb_el_type_icon2 .search {
+	max-width: 220px;
+	margin-left: 12px !important;
+}
+#wp-link-update {
+	position: absolute;
+	right: 6px;
+	width: 70px;
+	height: 28px;
+	overflow: hidden;
+}
+.wpb_vc_param_value.pos.radioimage {
+	position: absolute;
+	width: 10px;
+	float: left;
+	margin: 0px 10px;
+}
+img.radioimage {
+	margin-left: 32px;
+	border: 1px solid;
+	max-height: 70px;
+	max-width: 170px;
+}

@@ -1,0 +1,2 @@
+[03-Mar-2015 18:46:13 America/Caracas] PHP Fatal error:  Call to undefined function __() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/config/defaults.php on line 14
+[03-Mar-2015 19:48:36 America/Caracas] PHP Fatal error:  Call to undefined function plugins_url() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/config/plugin.defaults.php on line 7

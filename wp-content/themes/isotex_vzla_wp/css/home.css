@@ -1,0 +1,17 @@
+@font-face {
+
+	font-family: 'estre';
+
+	src: url('./estre.eot');
+
+	src: local('estre'), url('./estre.woff') format('woff'), url('./estre.ttf') format('truetype');
+
+}
+
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_19036">Text with this font applied</p> */
+
+.fontsforweb_fontid_19036 {
+
+	font-family: 'estre' !important;
+
+}

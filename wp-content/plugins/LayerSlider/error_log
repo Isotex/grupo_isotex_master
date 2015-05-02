@@ -1,0 +1,1 @@
+[03-Mar-2015 06:44:22 America/Caracas] PHP Fatal error:  Call to undefined function plugins_url() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/layerslider.php on line 26

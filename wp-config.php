@@ -19,19 +19,27 @@
 define('DB_NAME', 'wp_isotex');
 
 /** MySQL database username */
-define('DB_USER', 'User_Isotex');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'is@tex2015');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', '69.90.236.28');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+/**********************/
+define('WP_ALLOW_MULTISITE', true);
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', false);
+define('DOMAIN_CURRENT_SITE', 'www.grupoisotex.com');
+define('PATH_CURRENT_SITE', '/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
 
 /**#@+
  * Authentication Unique Keys and Salts.

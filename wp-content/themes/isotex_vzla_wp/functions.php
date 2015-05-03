@@ -45,7 +45,11 @@ function corporative_features()  {
 	add_editor_style( 'editor-style.css' );	
 
 	// Add theme support for Translation
-	load_theme_textdomain( 'corporative', get_template_directory() . '/languages' );	
+	load_theme_textdomain( 'corporative', get_template_directory() . '/languages' );
+
+    add_filter( 'allow_subdirectory_install',
+        create_function( '', 'return true;' )
+    );
 }
 
 // Hook into the 'after_setup_theme' action

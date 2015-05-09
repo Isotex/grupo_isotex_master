@@ -40,7 +40,7 @@ define('DOMAIN_CURRENT_SITE', 'www.grupoisotex.com');
 define('PATH_CURRENT_SITE', '/');
 define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
-
+/*Test r10*/
 /**#@+
  * Authentication Unique Keys and Salts.
  *

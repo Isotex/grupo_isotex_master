@@ -19,13 +19,13 @@
 define('DB_NAME', 'wp_isotex');
 
 /** MySQL database username */
-define('DB_USER', 'User_Isotex');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'is@tex2015');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', '69.90.236.28');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

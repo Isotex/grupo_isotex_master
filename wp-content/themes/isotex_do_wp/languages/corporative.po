@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Corporative/functions/comments.php:23
+msgid " Edit"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/comments.php:20
+msgid "%1$s"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/menu/edit_custom_walker.php:1
+msgid "%s (Invalid)"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/menu/edit_custom_walker.php:1
+msgid "%s (Pending)"
+msgstr ""
+
+#. Text in function
+#: Corporative/comments.php:11
+msgid "%s Comments"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/company-profile.php:87
+msgid "Address"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/title-breadcrumb.php:43
+msgid "All posts by "
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/title-breadcrumb.php:43
+msgid "All products by "
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/title-breadcrumb.php:43
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Articles Posted by %s"
+msgstr ""
+
+#. Text in function
+#: Corporative/single.php:34
+#: Corporative/archive.php:74
+#: Corporative/index.php:59
+msgid "Audio"
+msgstr ""
+
+#. Text in echo
+#: Corporative/404.php:11
+msgid "Back To Homepage"
+msgstr ""
+
+#. Text in function
+#: Corporative/template-side-nav.php:29
+msgid "Back to Parent Page"
+msgstr ""
+
+#. Text in echo
+#: Corporative/footer.php:23
+msgid "Back to Top"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/content.php:1
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:172
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:276
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:89
+msgid "Categories :"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/menu-header.php:48
+#: Corporative/functions/woo_config.php:420
+msgid "Checkout"
+msgstr ""
+
+#. Text in function
+#: Corporative/comments.php:32
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/widgets/recent-comment.php:57
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: Corporative/comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/widgets/company-profile.php:1
+msgid "Corporative: Company Profile"
+msgstr ""
+
+#. Text in function
+#: Corporative/footer.php:27
+msgid "Define your site bottom menu"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:185
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:107
+msgid "Display Date"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/widgets/company-profile.php:1
+msgid "Display info about your company. Such as logo, text & address"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:252
+msgid "Down one"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/comments.php:41
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:138
+msgid "Edit Menu Item"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/company-profile.php:97
+#: Corporative/comments.php:32
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:86
+msgid "Email Address"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/newsletters.php:26
+msgid "Enter your e-mail address"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: Corporative/single.php:34
+msgid "Featured Post"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/user-profile.php:24
+msgid "Forum Role:"
+msgstr ""
+
+#. Text in function
+#: Corporative/single.php:34
+#: Corporative/archive.php:74
+#: Corporative/index.php:59
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+#: Corporative/includes/title-breadcrumb.php:84
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "If you are not happy with the results below please do another search"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/content-search.php:15
+msgid "If you didn\\'t find what you were looking for, try a new search!"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/content.php:1
+msgid "In"
+msgstr ""
+
+#. Text in function
+#: Corporative/template-contact.php:1
+msgid "Is incorrect your email address"
+msgstr ""
+
+#. Text in function
+#: Corporative/comments.php:32
+msgid "Leave A Comment"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:178
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/company-profile.php:78
+msgid "Logo URL"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:202
+msgid "Megamenu"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:212
+msgid "Megamenu column"
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:93
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:102
+msgid "Most Commented"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:101
+msgid "Most Views"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:250
+msgid "Move"
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:83
+#: Corporative/comments.php:32
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:154
+#: Corporative/functions/menu/edit_custom_walker.php:229
+msgid "Navigation Label"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/content-search.php:14
+msgid "Need a new search?"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "New Search"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/misc.php:1
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-portfolio.php:61
+msgid "Number of portfolio to show :"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:84
+msgid "Number of posts to show :"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/content.php:1
+msgid "On"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:167
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: Corporative/page.php:22
+#: Corporative/template-side-nav.php:15
+#: Corporative/single.php:80
+#: Corporative/single-portfolio.php:56
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/company-profile.php:92
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/comments.php:41
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: Corporative/template-contact.php:1
+msgid "Please fill out all fields."
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/loop-search-reply.php:22
+#: Corporative/bbpress/loop-single-reply.php:22
+#: Corporative/bbpress/loop-search-topic.php:22
+msgid "Post count: %s"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:97
+msgid "Posts Order :"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/misc.php:1
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:100
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: Corporative/archive.php:114
+#: Corporative/index.php:100
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:99
+msgid "Recent"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/widgets/recent-portfolio.php:38
+msgid "Recent Portfolio"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:275
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/user-profile.php:26
+msgid "Replies Created:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-comment.php:51
+msgid "Says"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/title-breadcrumb.php:38
+msgid "Search Result for  "
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/breadcrumb.php:1
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#. Text in echo
+#: Corporative/bbpress/form-search.php:16
+#: Corporative/bbpress/content-search.php:22
+msgid "Search the Forum..."
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:97
+msgid "Send Message"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/single-share.php:11
+msgid "Share This Article"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/company-profile.php:82
+msgid "Short text about the site"
+msgstr ""
+
+#. Text in echo
+#: Corporative/searchform.php:2
+msgid "Start Searching..."
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:90
+msgid "Subject"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/menu-header.php:42
+#: Corporative/functions/woo_config.php:414
+msgid "Subtotal"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "Suggestions:"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/form-topic.php:22
+#: Corporative/bbpress/content-single-topic.php:31
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/template-contact.php:77
+msgid "Thanks! Your email was successfully sent. We check Our email all the time."
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:187
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#. Text in echo
+#: Corporative/comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/recent-post.php:80
+#: Corporative/functions/widgets/recent-portfolio.php:57
+msgid "Title : "
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:160
+msgid "Title Attribute"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/video.php:68
+#: Corporative/functions/widgets/facebook.php:41
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:255
+msgid "To the top"
+msgstr ""
+
+#. Text in function
+#: Corporative/bbpress/user-profile.php:25
+msgid "Topics Started:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "Try different keywords."
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "Try more general keywords."
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:147
+msgid "URL"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:251
+msgid "Up one"
+msgstr ""
+
+#. Text in function
+#: Corporative/single.php:34
+#: Corporative/archive.php:74
+#: Corporative/index.php:59
+msgid "Video"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/video.php:82
+msgid "Video ID:"
+msgstr ""
+
+#. Text in echo
+#: Corporative/includes/menu-header.php:47
+#: Corporative/functions/woo_config.php:419
+msgid "View Cart"
+msgstr ""
+
+#. Text in function
+#: Corporative/functions/post-views-count.php:1
+msgid "Views"
+msgstr ""
+
+#. Text in function
+#: Corporative/comments.php:32
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/comments.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "Your search"
+msgstr ""
+
+#. Text in echo
+#: Corporative/search.php:
+msgid "did not match any documents."
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/menu/edit_custom_walker.php:106
+msgid "sub item"
+msgstr ""
+
+#. Text in echo
+#: Corporative/functions/widgets/video.php:73
+msgid "type"
+msgstr ""

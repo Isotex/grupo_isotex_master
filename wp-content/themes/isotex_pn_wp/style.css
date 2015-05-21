@@ -1,6 +1,6 @@
 /*
 
-Theme Name: Corporative-Dominicana
+Theme Name: Corporative-Panamá
 
 Description: Multipurpose Wordpress Theme.
 
@@ -9998,4 +9998,8 @@ div.wpcf7 select{
 }
 .wpb_wrapper a img{
 	margin: 0 auto;
+}
+
+.breadcrumb-place{
+	display: none;
 }

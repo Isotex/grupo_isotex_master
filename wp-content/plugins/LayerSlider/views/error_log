@@ -1,8 +1,0 @@
-[03-Mar-2015 17:28:30 America/Caracas] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
-[03-Mar-2015 17:29:10 America/Caracas] PHP Fatal error:  Call to undefined function get_option() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
-[03-Mar-2015 17:43:53 America/Caracas] PHP Fatal error:  Call to a member function find() on a non-object in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
-[03-Mar-2015 18:01:27 America/Caracas] PHP Fatal error:  Call to undefined function _e() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 5
-[03-Mar-2015 19:05:34 America/Caracas] PHP Fatal error:  Class 'LS_Sliders' not found in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
-[03-Mar-2015 19:12:04 America/Caracas] PHP Fatal error:  Call to undefined function get_option() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
-[03-Mar-2015 20:16:55 America/Caracas] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
-[03-Mar-2015 20:20:22 America/Caracas] PHP Fatal error:  Call to undefined function _e() in /home/aomprese/public_html/grupoisotex/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10

@@ -34,12 +34,22 @@
 							
 					</div><!-- end search -->
 					<div id="flag">
-								<img title="Venezuela" alt="Venezuela" src="http://www.grupoisotex.aompresentaciones.com.ve/wp-content/uploads/2014/12/venezuela-bandera-80x40.jpg">
-								<img title="Panamá" alt="Panama" src="http://www.grupoisotex.aompresentaciones.com.ve/wp-content/uploads/2014/12/Bandera_de_Panama-80x40.png">
-								<img title="Curacao" alt="curacao" src="http://www.grupoisotex.aompresentaciones.com.ve/wp-content/uploads/2014/12/curacao_bandera-80x40.png">
-								<img title="Rep. Dominicana" alt="Rep. Dominicana" src="http://www.grupoisotex.aompresentaciones.com.ve/wp-content/uploads/2014/12/500px-Bandera_de_Republica_Dominicana-80x40.png">
-								<img title="Nicaragua" alt="nicaragua" src="http://www.grupoisotex.aompresentaciones.com.ve/wp-content/uploads/2015/03/Bandera_de_nicaragua_80x40-80x40.png">
-							</div>
+                        <a href="http://www.grupoisotex.com/">
+                          <img title="Venezuela" alt="Venezuela" src="http://www.grupoisotex.com/wp-content/uploads/2014/12/venezuela-bandera-80x40.jpg">
+                        </a>
+                        <a href="http://www.grupoisotex.com/panama">
+                            <img title="Panamá" alt="Panama" src="http://www.grupoisotex.com/wp-content/uploads/2014/12/Bandera_de_Panama-80x40.png">
+                        </a>
+                        <a href="http://www.isotex-curacao.com/">
+                            <img title="Curacao" alt="curacao" src="http://www.grupoisotex.com/wp-content/uploads/2014/12/curacao_bandera-80x40.png">
+                        </a>
+                        <a href="http://www.grupoisotex.com/dominicana">
+                            <img title="Rep. Dominicana" alt="Rep. Dominicana" src="http://www.grupoisotex.com/wp-content/uploads/2014/12/500px-Bandera_de_Republica_Dominicana-80x40.png">
+                        </a>
+                        <a href="http://www.grupoisotex.com/nicaragua">
+                            <img title="Nicaragua" alt="nicaragua" src="http://www.grupoisotex.com/wp-content/uploads/2014/12/Bandera_de_nicaragua_80x40-80x40.png">
+                        </a>
+					</div>
 
 					<?php endif; ?>
 

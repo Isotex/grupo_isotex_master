@@ -421,7 +421,7 @@ function download_category_post($atts,$name_category,$fancy) {
 					    }
 					    $homepage = get_bloginfo('url');
 					    $download_url = $homepage . '/?smd_process_download=1&download_id=' .$query->post->ID;
-					    $download_button_code = '<a href="' . $download_url . '" class="sdm_fancy2_download" ' . $window_target . '>' . $button_text_string . '</a>';
+					    $download_button_code = '<a href="' . $download_url . '" class="sdm_fancy2_download" target="_blank" >' . $button_text_string . '</a>';
 
 
     					// Check to see if the download link cpt is password protected
